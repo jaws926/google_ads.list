@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX, 2mdn.net
 DOMAIN-SUFFIX, admob-cn.com
 DOMAIN-SUFFIX, admob.com
 DOMAIN-SUFFIX, ads.youtube.com
